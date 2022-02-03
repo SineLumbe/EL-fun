@@ -1,0 +1,71 @@
+img {
+width: 70px;
+float: left;
+margin-left: 5px;
+  }
+
+.expirience-1{
+    margin-top:  5%;
+    float: left;
+    margin-left: 5%;
+    background-color: rgba(255, 255, 255, 0.808);
+    width: 25%;
+    height: 400px;
+    
+}
+
+.front-heading{
+    text-align: center;
+    color: white;
+    font-family: sans-serif25px;
+    padding-top: 50px;
+    font-weight: 40px;
+    margin-left: 2%;
+}
+
+.expirience-1 h3{
+    text-align: center;
+}
+
+.button-1{
+    border: 5px solid black;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+body{
+    background-image: url('pics/east-london-beaches-green-vegetation-south-africa-193966369.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+li{
+    padding-top: 20px;
+    font-family: sans-serif;
+}
+nav a{
+    padding-left: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    border-bottom: 5px solid palevioletred;
+    border-top: 5px solid palevioletred;
+    margin-top: 15px;
+    color: white;
+    font-size: 30px;
+}
+
+nav{
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.price{
+    color: blue;
+    margin-left: 10px;
+    font-weight: 30;
+}
+
+.expirience-1 p{
+    margin-left: 10px;
+    font-family: sans-serif;
+}
